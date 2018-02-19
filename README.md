@@ -42,6 +42,7 @@ In this article I'm going to explain the go way from an outsider's point of view
 
 ## The Go way
 
+**************GLORIOUS GOLANG*****************
 Here are some fundamentals you need to be aware of when using go tool.
 
 ### 1. Go tool is only compatible with code that resides in a workspace
